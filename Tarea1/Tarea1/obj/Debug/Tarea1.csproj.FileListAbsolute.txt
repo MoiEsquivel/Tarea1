@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+C:\Users\Asus\source\repos\Tarea1\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\Asus\source\repos\Tarea1\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\Asus\source\repos\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\Asus\source\repos\Tarea1\Tarea1\obj\Debug\Tarea1.pdb
